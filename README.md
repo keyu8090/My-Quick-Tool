@@ -13,6 +13,8 @@
     * **坐标抖动**：在选定的像素范围内随机晃动着点，更像真人在操作。
 * **总是置顶**：勾选后窗口不会被挡住，方便随时改参数。
 * 请以管理员模式启动
+
+* 
 KeyMouse Assistant v2.1 - Simple Automation Tool
 
 A lightweight tool I built to automate repetitive clicks and keystrokes.
