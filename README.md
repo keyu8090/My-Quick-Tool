@@ -1,3 +1,4 @@
+<img width="604" height="512" alt="mousecontrol" src="https://github.com/user-attachments/assets/9a45a614-67c1-444b-8beb-022a52d19592" />
 # 键鼠助手 v2.1
 
 这是一个简单的 Windows 自动化小工具，主要帮我处理一些重复的点击和按键任务。
