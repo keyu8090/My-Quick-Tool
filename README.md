@@ -3,7 +3,7 @@
 # 键鼠助手 v2.1
 
 这是一个简单的 Windows 自动化小工具，主要帮我处理一些重复的点击和按键任务。
-
+该工具特点：直观易懂，简洁易用，微乎其微的系统占用。
 ### 核心功能
 * **进程绑定**：可以指定在某个程序里运行，也可以留空全局使用。
 * **按键映射**：自己设定触发键，支持加个延迟（比如 100ms）再触发下一个键。
@@ -18,7 +18,7 @@
 KeyMouse Assistant v2.1 - Simple Automation Tool
 
 A lightweight tool I built to automate repetitive clicks and keystrokes.
-
+Intuitive and user-friendly with minimal system footprint.
 Process Binding: Target a specific app or leave it blank for global use.
 
 Key Mapping: Custom triggers with adjustable delays between actions.
