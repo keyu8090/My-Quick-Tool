@@ -12,7 +12,7 @@
     * **时间随机**：点按间隔可以加个随机范围，避免死板的固定频率。
     * **坐标抖动**：在选定的像素范围内随机晃动着点，更像真人在操作。
 * **总是置顶**：勾选后窗口不会被挡住，方便随时改参数。
-* 
+* 请以管理员模式启动
 KeyMouse Assistant v2.1 - Simple Automation Tool
 
 A lightweight tool I built to automate repetitive clicks and keystrokes.
@@ -30,6 +30,8 @@ Random Interval: Adds a random time buffer to avoid robotic, fixed frequencies.
 Spatial Jitter: Shifts the click slightly within a pixel range to mimic human movement.
 
 Always on Top: Keeps the tool visible for quick adjustments.
+
+This tool requires administrator privileges to function correctly.
 
 Note: Keep the EXE and INI files in the same folder for the configuration to work.
 ---
